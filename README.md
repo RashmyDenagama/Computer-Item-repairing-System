@@ -17,13 +17,9 @@ Billing Module: Generate repair invoices with automatic part and labor cost calc
 Repair Summary Reports: Exportable summaries for internal tracking and customer use.
 
 🖥️ Tech Stack:
-Frontend/UI: JavaFX for a responsive and intuitive interface
-
-Backend: Java with JDBC for database interaction
-
-Database: MySQL – Real-time data handling with backup support
-
-Architecture: Modular design with separation of concerns (Repair, Inventory, Billing, Customers)
+Frontend	React.js
+Backend	Spring Boot or Node.js + Express.js
+Database	MySQL / PostgreSQL
 
 🧠 Skills Demonstrated:
 Java Application Development
